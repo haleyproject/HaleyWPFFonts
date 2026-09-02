@@ -13,7 +13,7 @@
 	  <Company>TheHaleyProject</Company>
 	  <Description>A library containing some opensource fonts to be used in WPF projects.</Description>
 	  <PackageTags>WPF Haley CustomControls UILibrary</PackageTags>
-	  <RepositoryUrl>https://github.com/TheHaleyProject/HaleyWPFFonts</RepositoryUrl>
+	  <RepositoryUrl>https://github.com/haleyproject/HaleyWPFFonts</RepositoryUrl>
 	  <RepositoryType>git</RepositoryType>
 	  <PackageLicenseExpression>MIT</PackageLicenseExpression>
 	  <Copyright>Haley @ 2020</Copyright>
